@@ -173,7 +173,7 @@ header{
 .image-content{
     display: flex;
     overflow-y: scroll;
-    height: 50%
+    /* height: 50% */
 }
 
 nav a{
